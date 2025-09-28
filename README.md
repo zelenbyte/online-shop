@@ -4,6 +4,11 @@ A modern, responsive e-commerce web application built with **React**, **Tailwind
 This project demonstrates a full shopping experience including product listing, product details, cart management, checkout with account options, and user authentication.
 
 ---
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="ScreenshotHome-1.png" alt="Screenshot 1" width="300">
+  <img src="ScreenshotHome-2.png" alt="Screenshot 2" width="300">
+  <img src="ScreenshotCart.png" alt="Screenshot 3" width="300">
+</div>
 
 ## 🌟 Features
 
