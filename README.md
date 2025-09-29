@@ -4,10 +4,32 @@ A modern, responsive e-commerce web application built with **React**, **Tailwind
 This project demonstrates a full shopping experience including product listing, product details, cart management, checkout with account options, and user authentication.
 
 ---
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="ScreenshotHome-1.png" alt="Screenshot 1" width="300">
-  <img src="ScreenshotHome-2.png" alt="Screenshot 2" width="300">
-  <img src="ScreenshotCart.png" alt="Screenshot 3" width="300">
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <div style="flex: 0 0 48%;">
+    <img src="screenshots/ScreenshotHome-1.png" alt="Screenshot 1" style="width: 100%; height: auto; border-radius: 8px;">
+  </div>
+  <div style="flex: 0 0 48%;">
+    <img src="screenshots/ScreenshotHome-2.png" alt="Screenshot 2" style="width: 100%; height: auto; border-radius: 8px;">
+  </div>
+  <div style="flex: 0 0 48%;">
+    <img src="screenshots/ScreenshotCart.png" alt="Screenshot 3" style="width: 100%; height: auto; border-radius: 8px;">
+  </div>
+  <div style="flex: 0 0 48%;">
+    <img src="screenshots/ScreenshotCheckout.png" alt="Screenshot 4" style="width: 100%; height: auto; border-radius: 8px;">
+  </div>
+  <div style="flex: 0 0 48%;">
+    <img src="screenshots/ScreenshotSignin.png" alt="Screenshot 5" style="width: 100%; height: auto; border-radius: 8px;">
+  </div>
+  <div style="flex: 0 0 48%;">
+    <img src="screenshots/ScreenshotSignup.png" alt="Screenshot 6" style="width: 100%; height: auto; border-radius: 8px;">
+  </div>
+  <div style="flex: 0 0 48%;">
+    <img src="screenshots/ScreenshotAccount.png" alt="Screenshot 7" style="width: 100%; height: auto; border-radius: 8px;">
+  </div>
+  <div style="flex: 0 0 48%;">
+    <img src="screenshots/ScreenshotContact.png" alt="Screenshot 8" style="width: 100%; height: auto; border-radius: 8px;">
+  </div>
 </div>
 
 ## 🌟 Features
